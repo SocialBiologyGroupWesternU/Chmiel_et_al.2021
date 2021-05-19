@@ -1,1 +1,3 @@
 # Chmiel_et_al.2021
+Supplementary data files for...
+Chmiel JA, Pitek AP, Burton J, Thompson GJ, Reid G. 2021. Meta-analysis on the effect of bacterial interventions on honey bee productivity and the treatment of infection. Apidologie
