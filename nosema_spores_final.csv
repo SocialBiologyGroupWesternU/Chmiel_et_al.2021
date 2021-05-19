@@ -1,0 +1,13 @@
+author,year,sample_type,method,location,CFU,logCFU,HBD,Lactobacillus,Ne,Nc,TE,seTE
+Andrearczyk et al.,(2014),Adults,Syrup,Laboratory,9.00E+03,3.95,No,Yes,5,3,2.1072192,1.040699
+Audisio et al.,(2015)*,Adults,Syrup,Field,1.00E+05,5.00,Yes,Yes,5,5,-0.8487927,0.3562285
+Borges,(2015),Adults,Syrup,Laboratory,3.63E+05,5.56,No,Mixed,9,3,-0.45854433,0.6763786
+Baffoni et al.,(2016),Adults,Syrup,Laboratory,5.00E+06,6.70,Yes,Yes,30,30,0.02184648,0.2582071
+Corby-Harris et al.,(2016),Adults,Pollen Patty,Laboratory,268894.4444,5.43,Yes,No,28,22,-1.12270749,0.3077201
+Ptaszynska et al.,(2016a),Adults,Syrup,Laboratory,1.00E+04,4.00,No,Yes,6,3,0.644336773,0.7355438
+Ptaszynska et al.,(2016b),Adults,Syrup,Laboratory,2.50E+03,3.40,No,Yes,8,4,1.115708451,0.6724739
+Arredondo et al.,(2018),Adults,Syrup,Laboratory,2.00E+07,7.30,Yes,Yes,30,30,-0.862856451,0.2707528
+El Khoury & Rousseau et al.,(2018),Adults,Syrup,Laboratory,1.00E+03,3.00,Mixed,No,24,8,0.80669732,0.4222115
+Klassen,(2018),Adults,Mixed,Field,1.01E+07,7.00,No,No,36,18,-0.24902968,0.289746
+Peghaire et al.,(2020),Adults,Syrup,Laboratory,1.00E+04,4.00,No,No,15,15,-1.992831049,0.4577446
+Tejerina et al.,(2020),Adults,Syrup,Field,1.00E+05,5.00,Yes,Yes,23,23,-1.6819938,0.2157629

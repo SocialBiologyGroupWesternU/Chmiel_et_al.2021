@@ -1,0 +1,5 @@
+author,year,sample_type,HBD,Lactobacillus,CFU,logCFU,ne,nc,logHR,selogHR
+Forsgren et al.,(2010),Larvae,Yes,Yes,50000,4.698970004,594,284,-0.36,0.08
+Al-Ghamdi et al.,(2018),Larvae,Mixed,No,1000000,6,360,60,-0.25,0.16
+Arredondo et al.,(2018),Larvae,Yes,Yes,10000000,7,36,36,-1.5,0.82
+Daisley et al.,(2019),Larvae,Yes,Yes,30000000,7.477121255,40,40,-0.43,0.62

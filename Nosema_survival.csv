@@ -1,0 +1,7 @@
+author,year,sample_type,CFU,logCFU,HBD,Lactobacillus,ne,nc,HR,V,Low_95_CI,High_95_CI,logHR,selogHR
+Andrearczyk et al.,(2014),Adults,9.00E+03,3.954242509,No,Yes,250,152,0.81,78.3,0.65,1,-0.22,0.11
+Borges,(2015),Adults,2.84E+06,6.45331834,No,Mixed,60,30,0.27,8.16,0.13,0.53,-1.32,0.35
+Ptaszynska et al.,(2016b),Adults,2.50E+03,3.397940009,No,Yes,960,480,1.29,156.74,1.1,1.51,0.25,0.08
+Arredondo et al.,(2018),Adults,2.00E+07,7.301029996,Yes,Yes,50,50,0.46,1.16,0.07,2.84,-0.78,0.93
+El Khoury & Rousseau et al.,(2018),Adults,1.00E+03,3,Mixed,No,300,300,,,,,-0.6622966,0.1592352
+Peghaire et al.,(2020),Adults,1.00E+04,4,No,No,150,150,0.46,19.73,0.29,0.71,-0.78,0.23

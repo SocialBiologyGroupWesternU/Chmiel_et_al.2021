@@ -1,0 +1,6 @@
+author,year,level,sample_type,method,location,CFU,logCFU,HBD,Lactobacillus,Ne,Nc,TE,seTE
+Kuzysinova et al.,(2012),Colony,Adults,Pollen Patty,Field,5.00E+07,7.698970004,Yes,Yes,3,3,-0.360363193,0.231089022
+Daisley et al.,(2019),Colony,Adults,Pollen patty,Field,2.34E+09,9.369676106,Yes,Yes,2,2,-0.3906601,1.507247
+Stephan & Lamei et al.,(2019),Colony,Adults,Syrup,Field,1.37E+04,4.13667714,Yes,Yes,10,10,-0.117825102,0.200942564
+Daisley et al.,(2020b),Colony,Adults,Pollen patty,Field,2.34E+09,9.369676106,Yes,Yes,6,6,-0.7351318,0.428338147
+Lamei et al.,(2020),Colony,Adults,Syrup,Field,1.37E+04,4.13667714,Yes,Yes,24,24,-0.182652576,0.129590936

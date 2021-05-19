@@ -1,0 +1,7 @@
+author,year,sample_type,reference,CFU,logCFU,HBD,Lactobacillus,Ne,Nc,TE,seTE
+Yoshiyama et al.,(2013),Mixed,RPS5,1.00E+07,7,No,Mixed,72,8,0.4891526,0.3747823
+Janashia & Alaux,(2016),Larvae,RPS5 & Arp1,1.00E+07,7,Yes,Mixed,75,15,0.3896462,0.2843978
+Arredondo et al.,(2018),Adults,RPS5 & b-actin,2.00E+07,7.301029996,Yes,Yes,10,10,-0.6675248,0.4624637
+Daisley et al.,(2019),Larvae,b-tubulin,3.00E+07,7.477121255,Yes,Yes,6,6,1.510959,0.6891723
+Daisley et al.,(2020b),Adults,b-tubulin,3.00E+07,7.477121255,Yes,Yes,32,32,0.7058836,0.2587583
+Maruscakova et al.,(2020),Adults,Actin,5.00E+08,8.698970004,Yes,Yes,10,10,-1.160501633,0.316237898
